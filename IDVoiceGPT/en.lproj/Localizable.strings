@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  IDVoiceGPT
+
+  Created by Renald Shchetinin on 31.08.2023.
+  
+*/
+
+// Placeholder view label
+"placeholder-begin-string" = "Begin by recording your first message.";
+
+// Chat view header
+"talk-to-GPT-string" = "Talk to ChatGPT";
+
+// Chat view
+"pull-to-reset-string" = "Pull to reset";
+"listening-string" = "(listening...)";
+"thinking-string" = "(thinking...)";
+
+// Dialog view
+"dialog-string" = "Dialog";
+
+// Unmatched voice chat prompts
+"unmatched-voice-prompt-1" = "🔒 Sorry, your voice is not a match. I am not allowed to speak with strangers.";
+"unmatched-voice-prompt-2" = "🔒 Sorry, new voice. I can't chat with strangers.";
+"unmatched-voice-prompt-3" = "🔒 Sorry, not set for stranger chats, my friend.";
+"unmatched-voice-prompt-4" = "🔒 Sorry, sticking to safety! No stranger chats.";
+"unmatched-voice-prompt-5" = "🔒 Sorry, unfamiliar voice! You are not on the chat list.";
+"unmatched-voice-prompt-6" = "🔒 Sorry, unauthorized voice! Access denied!";
+
+// Not live voice chat prompts
+"not-live-voice-prompt-1" = "🤖 Good try, but I only talk to humans.";
+"not-live-voice-prompt-2" = "🤖 You'll need to try harder than that, I am the best product in the market.";
+"not-live-voice-prompt-3" = "🤖 You are making this too easy, I only talk to humans.";
+
+// Settings
+"settings-string" = "Settings";
+"app-string" = "App";
+"haptic-string" = "Haptic Feedback";
+"speech-string" = "Speech";
+"language-string" = "Language";
+"check-liveness-string" = "Check Liveness";
+"api-key-string" = "API Key";
+"enter-api-string" = "Enter API Key";
+"delete-api-string" = "Delete API Key";
+"delete-api-message-string" = "Are you sure you want to delete the API key? This action cannot be undone.";
+"delete-string" = "Delete";
+
+// User permissions
+"permissions-needed-string" = "Recording permissions needed";
+"permissions-alert-message-string" = "Please grant access to Speech Recognition and Microphone in Settings.";
+

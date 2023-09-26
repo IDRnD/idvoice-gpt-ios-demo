@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  heychatgpt
+
+  Created by Renald Shchetinin on 31.08.2023.
+  
+*/
+
+NSMicrophoneUsageDescription = "A aplicação irá utilizar um microfone para reconhecer sua fala.";
+NSSpeechRecognitionUsageDescription = "A aplicação irá utilizar a função para reconhecer sua fala.";

@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  heychatgpt
+
+  Created by Renald Shchetinin on 31.08.2023.
+  
+*/
+
+// Placeholder view label
+"placeholder-begin-string" = "Comience grabando su primer mensaje.";
+
+// Chat header view
+"talk-to-GPT-string" = "Habla con ChatGPT";
+
+// Chat view
+"pull-to-reset-string" = "Tirar para restablecer";
+"listening-string" = "(escuchando...)";
+"thinking-string" = "(pensamiento...)";
+
+// Dialog view
+"dialog-string" = "Diálogo";
+
+// Unmatched voice chat prompts
+"unmatched-voice-prompt-1" = "🔒 Lo siento, tu voz no coincide. No se me permite hablar con extraños.";
+"unmatched-voice-prompt-2" = "🔒 Lo siento, no tengo registro de tu voz. No puedo conversar con extraños.";
+"unmatched-voice-prompt-3" = "🔒 Lo siento, no estoy configurad@ para chats con extraños, amig@.";
+"unmatched-voice-prompt-4" = "🔒 ¡Lo siento, soy una herramienta segura! No mantengo conversaciones con extraños.";
+"unmatched-voice-prompt-5" = "🔒 ¡Lo siento, voz desconocida! No estás en la lista de chat.";
+"unmatched-voice-prompt-6" = "🔒 ¡Lo siento, voz no autorizada! ¡Acceso denegado!";
+
+// Not live voice chat prompts
+"not-live-voice-prompt-1" = "🤖 Buen intento, pero solo hablo con humanos.";
+"not-live-voice-prompt-2" = "🤖 Debes volver a internarlo, soy el mejor producto del mercado.";
+"not-live-voice-prompt-3" = "🤖 Lo estas haciendo demasiado fácil. Solo hablo con humanos.";
+
+// Settings
+"settings-string" = "Configuración";
+"app-string" = "App";
+"haptic-string" = "Reacción háptica";
+"language-string" = "Idioma";
+"check-liveness-string" = "Comprobar vivacidad";
+"speech-string" = "Voz";
+"api-key-string" = "Clave API";
+"enter-api-string" = "Ingrese la clave API";
+"delete-api-string" = "Eliminar clave API";
+"delete-api-message-string" = "¿Está seguro de que desea eliminar la clave API? Esta acción no se puede deshacer.";
+"Delete" = "Eliminar";
+
+// User permissions
+"permissions-needed-string" = "Permisos de grabación necesarios";
+"permissions-alert-message-string" = "Otorgue acceso a Reconocimiento de voz y Micrófono en Configuración.";

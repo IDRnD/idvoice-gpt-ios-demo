@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  heychatgpt
+
+  Created by Renald Shchetinin on 31.08.2023.
+  
+*/
+
+// Placeholder view label
+"placeholder-begin-string" = "Comece gravando sua primeira mensagem.";
+
+// Chat view header
+"talk-to-GPT-string" = "Fale com o ChatGPT";
+
+// Chat view
+"pull-to-reset-string" = "Aperte para resetar";
+"listening-string" = "(escutando...)";
+"thinking-string" = "(pensando...)";
+
+// Dialog view
+"dialog-string" = "Diálogo";
+
+// Unmatched voice chat prompts
+"unmatched-voice-prompt-1" = "🔒 Desculpe, sua voz não corresponde aos meus registros. Não tenho permissão para falar com estranhos.";
+"unmatched-voice-prompt-2" = "🔒 Desculpe, não tenho registro da sua voz. Não posso conversar com estranhos.";
+"unmatched-voice-prompt-3" = "🔒 Desculpe, não estou preparado para conversar com estranhos, amig@.";
+"unmatched-voice-prompt-4" = "🔒 Desculpe, sou uma ferramenta segura! Não converso com estranhos.";
+"unmatched-voice-prompt-5" = "🔒 Desculpe, voz desconhecida! Sua voz não está na lista de bate-papo.";
+"unmatched-voice-prompt-6" = "🔒 Desculpe, voz não autorizada! Acesso negado!";
+
+// Not live voice chat prompts
+"not-live-voice-prompt-1" = "🤖 Boa tentativa, mas eu só falo com humanos.";
+"not-live-voice-prompt-2" = "🤖 Você terá que fazer melhor do que isso, eu sou o melhor produto do mercado.";
+"not-live-voice-prompt-3" = "🤖 Você está facilitando as coisas, eu só falo com humanos.";
+
+// Settings
+"settings-string" = "Configurações";
+"app-string" = "App";
+"haptic-string" = "Feedback tátil";
+"speech-string" = "Fale";
+"language-string" = "Idioma";
+"check-liveness-string" = "Verificar Liveness";
+"api-key-string" = "API Key";
+"enter-api-string" = "Digite a API Key";
+"delete-api-string" = "Deletar API Key";
+"delete-api-message-string" = "Tem certeza que gostaria de deletar a API Key? Essa ação não pode ser desfeita.";
+"delete-string" = "Deletar";
+
+// User permissions
+"permissions-needed-string" = "Permissões para gravação necessárias";
+"permissions-alert-message-string" = "Por favor, dê permissão para o Reconhecimento de Fala e Microfone nas Configurações.";

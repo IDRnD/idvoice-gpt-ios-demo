@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  IDVoiceGPT
+
+  Created by Renald Shchetinin on 31.08.2023.
+  
+*/
+
+NSMicrophoneUsageDescription = "The application will utilize a microphone to recognize your speech.";
+NSSpeechRecognitionUsageDescription = "The application will utilize the function to recognize your speech.";
